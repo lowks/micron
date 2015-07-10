@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='micron',
     version='1.0',
-    packages=['micron'],
+    py_modules=['micron', 'template'],
     url='',
     license='MIT',
     author='Arewa Olakunle',
