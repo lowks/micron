@@ -4,7 +4,7 @@ setup(
     name='micron',
     version='1.0',
     py_modules=['micron', 'template'],
-    url='',
+    url='https://github.com/danceasarxx/micron',
     license='MIT',
     author='Arewa Olakunle',
     author_email='arewa.olakunle@gmail.com',
